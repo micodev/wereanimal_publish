@@ -555,5 +555,6 @@
   "start_btn_back": "برگشت",
   "start_helper_help_text": "Wereanimals یک بازی کسر اجتماعی است. برای یادگیری نحوه بازی، راهنمای زیر را بخوانید.",
   "start_helper_roles_title": "در اینجا لیستی از تمام نقش های موجود است:",
-  "start_helper_choose_lang": "لطفا زبان مورد نظر خود را انتخاب کنید:"
+  "start_helper_choose_lang": "لطفا زبان مورد نظر خود را انتخاب کنید:",
+  "start_dead_fled_players": "💀 **بازیکنان مرده / فراری:**"
 }

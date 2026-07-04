@@ -548,5 +548,6 @@
   "start_btn_back": "Orqaga",
   "start_helper_help_text": "Wereanimals - bu ijtimoiy chegirma o'yini. Qanday o'ynashni o'rganish uchun quyidagi qo'llanmani o'qing.",
   "start_helper_roles_title": "Bu erda barcha mavjud rollar ro'yxati:",
-  "start_helper_choose_lang": "O'zingiz yoqtirgan tilni tanlang:"
+  "start_helper_choose_lang": "O'zingiz yoqtirgan tilni tanlang:",
+  "start_dead_fled_players": "💀 **O'lgan / Qochib ketgan o'yinchilar:**"
 }

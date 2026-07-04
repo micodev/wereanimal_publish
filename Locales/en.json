@@ -555,5 +555,6 @@
   "start_btn_back": "Back",
   "start_helper_help_text": "Wereanimals is a social deduction game. Read the manual below to learn how to play.",
   "start_helper_roles_title": "Here is a list of all available roles:",
-  "start_helper_choose_lang": "Please select your preferred language:"
+  "start_helper_choose_lang": "Please select your preferred language:",
+  "start_dead_fled_players": "💀 **Dead / Fled Players:**"
 }

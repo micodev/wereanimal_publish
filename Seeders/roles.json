@@ -1,0 +1,194 @@
+[
+  {
+    "Id": "king_of_lions",
+    "ClassicEquivalent": "Wolf 🦁",
+    "Faction": "Apex",
+    "PriorityLevel": 10,
+    "AbilityType": "Kill",
+    "AvatarPath": "Assets/Players/king_of_lions.png"
+  },
+  {
+    "Id": "alpha_lion",
+    "ClassicEquivalent": "Alpha Wolf ⚡️",
+    "Faction": "Apex",
+    "PriorityLevel": 11,
+    "AbilityType": "Infect",
+    "AvatarPath": "Assets/Players/alpha_lion.png"
+  },
+  {
+    "Id": "apex_vulture",
+    "ClassicEquivalent": "Sorcerer 🔮",
+    "Faction": "Apex",
+    "PriorityLevel": 15,
+    "AbilityType": "Investigate",
+    "AvatarPath": "Assets/Players/apex_vulture.png"
+  },
+  {
+    "Id": "disguised_lion",
+    "ClassicEquivalent": "Lycan 🦁🌝",
+    "Faction": "Apex",
+    "PriorityLevel": 10,
+    "AbilityType": "Kill",
+    "AvatarPath": "Assets/Players/disguised_lion.png"
+  },
+  {
+    "Id": "venomous_snake",
+    "ClassicEquivalent": "Snow Wolf 🦁☃️ (closest — delayed kill vs freeze; unique mechanic)",
+    "Faction": "Apex",
+    "PriorityLevel": 1,
+    "AbilityType": "DelayedPoison",
+    "AvatarPath": "Assets/Players/venomous_snake.png"
+  },
+  {
+    "Id": "wise_owl",
+    "ClassicEquivalent": "Seer 👳",
+    "Faction": "Herd",
+    "PriorityLevel": 41,
+    "AbilityType": "Investigate",
+    "AvatarPath": "Assets/Players/wise_owl.png"
+  },
+  {
+    "Id": "fledgling_owl",
+    "ClassicEquivalent": "Apprentice Seer 🙇",
+    "Faction": "Herd",
+    "PriorityLevel": 42,
+    "AbilityType": "CompareFactions",
+    "AvatarPath": "Assets/Players/fledgling_owl.png"
+  },
+  {
+    "Id": "rabbit_witch",
+    "ClassicEquivalent": "Guardian Angel 👼 + Vigilante hybrid (heal potion = protect, kill potion = shoot)",
+    "Faction": "Herd",
+    "PriorityLevel": 2,
+    "AbilityType": "WitchAction",
+    "AvatarPath": "Assets/Players/rabbit_witch.png"
+  },
+  {
+    "Id": "rhino_hunter",
+    "ClassicEquivalent": "Hunter 🎯",
+    "Faction": "Herd",
+    "PriorityLevel": 0,
+    "AbilityType": "RetaliateKill",
+    "AvatarPath": "Assets/Players/rhino_hunter.png"
+  },
+  {
+    "Id": "ghostly_dog",
+    "ClassicEquivalent": "Guardian Angel 👼 (post-death variant)",
+    "Faction": "Herd",
+    "PriorityLevel": 3,
+    "AbilityType": "GhostlyProtect",
+    "AvatarPath": "Assets/Players/ghostly_dog.png"
+  },
+  {
+    "Id": "crazy_chemist_toad",
+    "ClassicEquivalent": "Chemist 👨🔬",
+    "Faction": "Herd",
+    "PriorityLevel": 30,
+    "AbilityType": "ChemistGamble",
+    "AvatarPath": "Assets/Players/crazy_chemist_toad.png"
+  },
+  {
+    "Id": "cursed_sheep",
+    "ClassicEquivalent": "Cursed 😾",
+    "Faction": "Herd",
+    "PriorityLevel": 0,
+    "AbilityType": "None",
+    "AvatarPath": "Assets/Players/cursed_sheep.png"
+  },
+  {
+    "Id": "common_sheep",
+    "ClassicEquivalent": "Villager 👱",
+    "Faction": "Herd",
+    "PriorityLevel": 0,
+    "AbilityType": "None",
+    "AvatarPath": "Assets/Players/common_sheep.png"
+  },
+  {
+    "Id": "chunky_mongoose",
+    "ClassicEquivalent": "Blacksmith ⚒ (closest — blocks a wolf-team action; unique retaliation twist)",
+    "Faction": "Herd",
+    "PriorityLevel": 0,
+    "AbilityType": "None",
+    "AvatarPath": "Assets/Players/chunky_mongoose.png"
+  },
+  {
+    "Id": "sneaky_raccoon",
+    "ClassicEquivalent": "Thief 😈",
+    "Faction": "Herd",
+    "PriorityLevel": 60,
+    "AbilityType": "StealRole",
+    "AvatarPath": "Assets/Players/sneaky_raccoon.png"
+  },
+  {
+    "Id": "playing_possum",
+    "ClassicEquivalent": "Tanner 👺",
+    "Faction": "Solitaries",
+    "PriorityLevel": 0,
+    "AbilityType": "SelfWinOnLynch",
+    "AvatarPath": "Assets/Players/playing_possum.png"
+  },
+  {
+    "Id": "hypnotic_serpent",
+    "ClassicEquivalent": "Cultist 👤 (closest — converts players; unique domination win-condition)",
+    "Faction": "Solitaries",
+    "PriorityLevel": 20,
+    "AbilityType": "Dominate",
+    "AvatarPath": "Assets/Players/hypnotic_serpent.png"
+  },
+  {
+    "Id": "quilled_porcupine",
+    "ClassicEquivalent": "Gunner 🔫",
+    "Faction": "Herd",
+    "PriorityLevel": 0,
+    "AbilityType": "DayShoot",
+    "AvatarPath": "Assets/Players/quilled_porcupine.png"
+  },
+  {
+    "Id": "roaring_hippopotamus",
+    "ClassicEquivalent": "Mayor 🎖",
+    "Faction": "Herd",
+    "PriorityLevel": 0,
+    "AbilityType": "MayorReveal",
+    "AvatarPath": "Assets/Players/roaring_hippopotamus.png"
+  },
+  {
+    "Id": "peaceful_manatee",
+    "ClassicEquivalent": "Pacifist ☮️",
+    "Faction": "Herd",
+    "PriorityLevel": 0,
+    "AbilityType": "PacifistBlock",
+    "AvatarPath": "Assets/Players/peaceful_manatee.png"
+  },
+  {
+    "Id": "lone_jaguar",
+    "ClassicEquivalent": "Serial Killer 🔪",
+    "Faction": "Solitaries",
+    "PriorityLevel": 5,
+    "AbilityType": "SerialKillerKill",
+    "AvatarPath": "Assets/Players/lone_jaguar.png"
+  },
+  {
+    "Id": "two_faced_jackal",
+    "ClassicEquivalent": "Traitor \ud83d\udd95",
+    "Faction": "Herd",
+    "PriorityLevel": 0,
+    "AbilityType": "None",
+    "AvatarPath": "Assets/Players/two_faced_jackal.png"
+  },
+  {
+    "Id": "matchmaking_dove",
+    "ClassicEquivalent": "Cupid 🏹",
+    "Faction": "Herd",
+    "PriorityLevel": 5,
+    "AbilityType": "LinkLovers",
+    "AvatarPath": "Assets/Players/matchmaking_dove.png"
+  },
+  {
+    "Id": "blindfolded_kangaroo",
+    "ClassicEquivalent": "Blindfolded Kangaroo 🦘",
+    "Faction": "Herd",
+    "PriorityLevel": 0,
+    "AbilityType": "BlindfoldApex",
+    "AvatarPath": "Assets/Players/blindfolded_kangaroo.png"
+  }
+]

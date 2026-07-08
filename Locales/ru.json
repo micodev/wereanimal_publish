@@ -305,7 +305,7 @@
   "settings_configure_btn": "⚙️ Настроить",
   "settings_main_title": "⚙️ **Настройки игры**\n\nНастройте игру для этой группы:",
   "settings_lang_btn": "🌐 Язык: {0}",
-  "settings_botfiller_btn": "🤖 Боты-наполнители",
+  "settings_botfiller_btn": "🤖 Настройки ботов",
   "settings_role_btn": "🎭 Роли",
   "settings_lang_title": "🌐 **Выбор языка**\n\nВыберите язык для этой группы:",
   "settings_lang_en": "English",
@@ -315,7 +315,7 @@
   "settings_lang_fa": "فارسی",
   "settings_back": "⬅️ Назад",
   "settings_lang_updated": "✅ Язык обновлен.",
-  "settings_botfiller_title": "🤖 **Настройки ботов-наполнителей**\n\nНастройте, как бот заполняет пустые места в лобби:",
+  "settings_botfiller_title": "🤖 **Настройки ботов**\n\nНастройте поведение ботов в игре:",
   "settings_botfiller_toggle_btn": "Боты-наполнители: {0}",
   "settings_botfiller_target_btn": "Цель: {0}",
   "settings_role_desc": "Настройте, какие роли появятся в следующей игре.\n",
@@ -544,7 +544,7 @@
   "dm_killed_porcupine_action": "застрелил вас в целях самообороны!",
   "dm_killed_apex_kill": "напал и убил вас!",
   "dm_killed_threw_potion": "бросил в вас смертельное зелье!",
-  "start_helper_welcome": "Добро пожаловать в оборотней! Чтобы начать, выберите вариант ниже:",
+  "start_helper_welcome": "Добро пожаловать в игру! Чтобы начать, выберите вариант ниже:",
   "start_btn_add_group": "Добавить в группу",
   "start_btn_help": "Помощь",
   "start_btn_roles": "Роли",
@@ -553,5 +553,20 @@
   "start_helper_help_text": "Wereanimals — это игра в жанре социального дедукции. Прочтите руководство ниже, чтобы научиться играть.",
   "start_helper_roles_title": "Вот список всех доступных ролей:",
   "start_helper_choose_lang": "Пожалуйста, выберите предпочитаемый язык:",
-  "start_dead_fled_players": "💀 **Мертвые / Сбежавшие игроки:**"
+  "start_dead_fled_players": "💀 **Мертвые / Сбежавшие игроки:**",
+  "settings_roles_submenu_title": "🎭 **Настройки ролей**\\nВыберите категорию:",
+  "settings_roles_assignment_btn": "📋 Назначение ролей",
+  "settings_roles_reveal_btn": "👁 Раскрытие ролей",
+  "settings_roles_reveal_title": "👁 **Раскрытие роли при смерти**\\nЕсли эта функция включена, имя роли отображается рядом с именем игрока после его смерти.",
+  "settings_roles_reveal_toggle_btn": "👁 Сообщение о смерти: {0}",
+  "engine_player_replaced_bot": [
+    "🤖 {0} уснул на часах! Стадо подключило свой мозг к искусственному интеллекту, чтобы продолжить игру.",
+    "🤖 {0} оторван от реальности. Немного туповатый, но полный энтузиазма бот завладел их телом.",
+    "🤖 {0} был пойман спящим на работе! В их череп был вставлен чип автопилота, который позволял им двигаться."
+  ],
+  "settings_afk_bot_replace_btn": "🤖 Замена бота AFK: {0}",
+  "flee_disabled": "❌ Бегство на данный момент отключено администратором. Ты застрял здесь с нами.",
+  "settings_rules_btn": "🎮 Правила игры",
+  "settings_rules_title": "🎮 **Правила игры**\n\nИзмените основные правила игры:",
+  "settings_allow_flee_toggle_btn": "Разрешить бегство (/flee): {0}"
 }

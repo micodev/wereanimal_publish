@@ -305,7 +305,7 @@
   "settings_configure_btn": "⚙️ پیکربندی",
   "settings_main_title": "⚙️ **تنظیمات بازی**\n\nبازی را برای این گروه پیکربندی کنید:",
   "settings_lang_btn": "🌐 زبان: {0}",
-  "settings_botfiller_btn": "🤖 پرکننده بات",
+  "settings_botfiller_btn": "🤖 تنظیمات ربات ها",
   "settings_role_btn": "🎭 نقش‌ها",
   "settings_lang_title": "🌐 **انتخاب زبان**\n\nزبان را برای این گروه انتخاب کنید:",
   "settings_lang_en": "English",
@@ -315,7 +315,7 @@
   "settings_lang_fa": "فارسی",
   "settings_back": "⬅️ بازگشت",
   "settings_lang_updated": "✅ زبان به‌روز شد.",
-  "settings_botfiller_title": "🤖 **تنظیمات پرکننده ربات**\n\nنحوه پر کردن جای خالی توسط ربات در لابی را پیکربندی کنید:",
+  "settings_botfiller_title": "🤖 **تنظیمات ربات**\n\nنحوه رفتار ربات ها در بازی را پیکربندی کنید:",
   "settings_botfiller_toggle_btn": "ربات پرکننده: {0}",
   "settings_botfiller_target_btn": "تعداد هدف: {0}",
   "settings_role_desc": "پیکربندی کنید که کدام نقش‌ها در بازی بعدی ظاهر شوند.\n",
@@ -556,5 +556,20 @@
   "start_helper_help_text": "Wereanimals یک بازی کسر اجتماعی است. برای یادگیری نحوه بازی، راهنمای زیر را بخوانید.",
   "start_helper_roles_title": "در اینجا لیستی از تمام نقش های موجود است:",
   "start_helper_choose_lang": "لطفا زبان مورد نظر خود را انتخاب کنید:",
-  "start_dead_fled_players": "💀 **بازیکنان مرده / فراری:**"
+  "start_dead_fled_players": "💀 **بازیکنان مرده / فراری:**",
+  "settings_roles_submenu_title": "🎭 **تنظیمات نقش**\\nیک دسته را انتخاب کنید:",
+  "settings_roles_assignment_btn": "📋 تعیین نقش",
+  "settings_roles_reveal_btn": "👈 افشای نقش",
+  "settings_roles_reveal_title": "👁 **Role Reveal on Death**\\nوقتی فعال باشد، نام نقش در کنار نام بازیکن در هنگام مرگ نشان داده می‌شود.",
+  "settings_roles_reveal_toggle_btn": "👁 افشای مرگ: {0}",
+  "engine_player_replaced_bot": [
+    "🤖 {0} در حین تماشا به خواب رفت! گله مغز خود را به یک هوش مصنوعی متصل کردند تا بتوانند به بازی ادامه دهند.",
+    "🤖 {0} با واقعیت قطع شده است. یک ربات کمی گنگ اما مشتاق بدن آنها را فرا گرفت.",
+    "🤖 {0} در حین کار در خواب گرفتار شد! یک تراشه خلبان خودکار در جمجمه آنها قرار داده شد تا آنها را در حرکت نگه دارد."
+  ],
+  "settings_afk_bot_replace_btn": "🤖 جایگزینی ربات AFK: {0}",
+  "flee_disabled": "❌ در حال حاضر فرار توسط ادمین غیرفعال شده است. تو اینجا با ما گرفتار شدی",
+  "settings_rules_btn": "🎮 قوانین بازی",
+  "settings_rules_title": "🎮 **قوانین بازی**\n\nقوانین اصلی بازی را تغییر دهید:",
+  "settings_allow_flee_toggle_btn": "اجازه دادن به فرار (/flee): {0}"
 }

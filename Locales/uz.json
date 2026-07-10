@@ -325,6 +325,8 @@
   "settings_save_btn": "✅ Saqlash",
   "settings_group_not_found": "Guruh topilmadi. Oldin /start bilan o'yin oching.",
   "settings_group_not_found_gen": "Guruh topilmadi.",
+  "time_left_to_act": "\n⏳ Harakat qilish uchun {0} vaqtingiz bor.",
+  "cmd_start_private": "O'yinni boshlash uchun bu buyruqni guruhda ishlating.",
   "start_remind": "⏳ O'yinga qo'shilishga {0} soniya qoldi!",
   "start_join_btn": "Qo'shilish",
   "start_cancel_not_enough": "🛑 O'yin bekor qilindi! Odam yetarli emas (kamida 5 ta kerak, bizda {0} ta).",
